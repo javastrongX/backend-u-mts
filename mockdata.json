@@ -1,0 +1,2065 @@
+[
+  {
+    "id": 10812,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 3,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "java FG10-15",
+    "sub_title": "1280 Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "uraaa Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "rank_premium": false,
+    "rank_search": false,
+    "rank_hot_offer": false,
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 38,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 108,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": true,
+      "is_official": true
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 1002910,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      },
+      {
+        "id": 30358,
+        "url": "/Images/d-image.png"
+      }
+    ],
+    "slug": "108-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа  1111111111111111111111111111111   1111111111111111111111111111 11 111111111111111",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      },
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      },
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "rank_premium": false,
+    "rank_search": false,
+    "rank_hot_offer": false,
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 51,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 10,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "rank_premium": true,
+    "rank_search": true,
+    "rank_hot_offer": false,
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 34,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "8-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "rank_premium": false,
+    "rank_search": true,
+    "rank_hot_offer": true,
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 35,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 11,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "11-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "rank_premium": false,
+    "rank_search": false,
+    "rank_hot_offer": false,
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 30,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 12,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "12-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 30,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 13,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "13-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 30,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  },
+  {
+    "id": 8,
+    "author": {
+      "id": 28099,
+      "name": "Gaybullayev Jorabek Alisher ogli",
+      "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+      "is_company": false,
+      "is_official": false
+    },
+    "category": {
+      "id": 1,
+      "title": "Продажа спецтехники",
+      "icon": "https://dev.gservice-co.kz/api-assets/category_icon/basket.svg"
+    },
+    "title": "Komatsu FG10-15",
+    "sub_title": "Экскаваторы-погрузчики",
+    "city": {
+      "id": 28,
+      "title": "Алматы",
+      "is_popular": true
+    },
+    "prices": [
+      {
+        "id": 7080,
+        "type": "price",
+        "price": 999999999,
+        "original_price": 999999999,
+        "currency": {
+          "id": 1,
+          "title": "KZT",
+          "in_tenge": 1,
+          "symbol": "₸"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": 30358,
+        "url": "https://dev.gservice-co.kz/storage/ad-images/24-05-2025/01JW0GKFFJJGR030WHBE3GREHR.webp"
+      }
+    ],
+    "slug": "10812-komatsu-fg10-15",
+    "phones": [
+      "2131314141"
+    ],
+    "description": "Подача в день заказа",
+    "characteristics": [
+      {
+        "characteristic": {
+          "id": 264,
+          "title": "Тип топлива"
+        },
+        "values": {
+          "value": 512,
+          "title": "Дизель",
+          "measurement_unit": null
+        }
+      },
+      {
+        "characteristic": {
+          "id": 266,
+          "title": "Год выпуска"
+        },
+        "values": {
+          "value": 579,
+          "title": "2024",
+          "measurement_unit": "г."
+        }
+      }
+    ],
+    "ad_package": null,
+    "ad_promotions": [],
+    "stickers": [],
+    "status": "confirmed",
+    "is_favorite": false,
+    "statistics": {
+      "viewed": 13,
+      "write": 0,
+      "called": 0,
+      "favorite": 1,
+      "share": 2,
+      "clicked": 3,
+      "views": null
+    },
+    "created_at": "2025-05-24T06:45:06.000000Z",
+    "likedBy": []
+  }
+]
