@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "author": {
+            "id": 1,
+            "name": "Javastrong",
+            "avatar": "",
+            "favorites": [],
+            "is_company": false
+        },
+
+        "category": {
+            "id": 1, 
+            "title": ""    
+        },
+        "title": "Mahsulot nomi",
+        "sub_title": "",
+        "description": "mahsulot haqida to'liq malumot",
+        "address": "Toshkent Uzbekistan",
+        "prices": [
+            {
+                "id": 1,
+                "type": "price",
+                "price": 0,
+                "currency": "uzs"
+            }
+        ],
+        "images": [
+            {
+                "id": 1,
+                "url": ""
+            }
+        ],
+        "transport_type": {
+            "id": 1,
+            "title": "",
+            "is_popular": false,
+            "slug": ""
+        },
+        "transport_brand": {
+            "id": 1,
+            "title": "",
+            "is_popular": false,
+            "slug": ""
+        },
+        "transport_model": {
+            "id": 1,
+            "title": "",
+            "is_popular": false,
+            "slug": ""
+        },
+
+        "characteristics": [
+            {
+                "characteristic": {
+                    "id": 1,
+                    "title": ""
+                },
+                "values": {
+                    "value": 1,
+                    "title": "",
+                    "measurement_unit": null
+                }
+            }
+        ],
+
+        "rank_premium": false,
+        "rank_search": false,
+        "rank_hot_offer": false,
+        "slug": "",
+        "phones": "",
+        "status": "",
+        "isNegotiable": false,
+        "stickers": [],
+        "statistics": {
+            "viewed": 0,
+            "write": 0,
+            "called": 0,
+            "favorite": 0,
+            "share": 0,
+            "clicked": 0
+        },
+        "created_at": ""
+
+    }
+]

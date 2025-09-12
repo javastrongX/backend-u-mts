@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "name": "TOO MAGSERVICE PARTS",
+      "avatar": "https://dev.gservice-co.kz/storage/avatars/01JSYRBC4AKVAQCS2VNGVCWERH.jpg",
+      "rating": 0,
+      "city": {
+        "id": 300,
+        "title": "Шымкент",
+        "is_popular": true
+      },
+      "specializations": [
+        {
+          "id": 17,
+          "title": "Поставщики двигателей для спецтехники"
+        },
+        {
+          "id": 18,
+          "title": "Поставщики запчастей для ходовой части"
+        },
+        {
+          "id": 19,
+          "title": "Производители и поставщики металлических конструкций"
+        },
+        {
+          "id": 22,
+          "title": "Поставщики масел и фильтров"
+        },
+        {
+          "id": 27,
+          "title": "Поставщики систем автоматической смазки"
+        },
+        {
+          "id": 29,
+          "title": "Поставщики турбокомпрессоров"
+        },
+        {
+          "id": 30,
+          "title": "Поставщики шин и цепей для спецтехники"
+        },
+        {
+          "id": 38,
+          "title": "Диагностика спецтехники"
+        },
+        {
+          "id": 46,
+          "title": "Ремонт бульдозеров"
+        },
+        {
+          "id": 48,
+          "title": "Ремонт грейдеров"
+        },
+        {
+          "id": 54,
+          "title": "Ремонт погрузчиков"
+        },
+        {
+          "id": 56,
+          "title": "Ремонт экскаваторов"
+        },
+        {
+          "id": 57,
+          "title": "Ремонт гидравлики спецтехники"
+        },
+        {
+          "id": 58,
+          "title": "Ремонт двигателей спецтехники"
+        }
+      ],
+      "slug": "2-too-magservice-parts",
+      "is_official": false,
+      "created_at": "2025-03-05T06:28:48.000000Z"
+    },
+    {
+      "id": 11,
+      "name": "ТОО \"KASPI PARTS INC\"",
+      "avatar": "https://dev.gservice-co.kz/api-assets/company.png",
+      "rating": 0,
+      "city": {
+        "id": 300,
+        "title": "Шымкент",
+        "is_popular": true
+      },
+      "specializations": [],
+      "slug": "11-too-kaspi-parts-inc",
+      "is_official": false,
+      "created_at": "2025-03-28T05:21:53.000000Z"
+    },
+    {
+      "id": 12,
+      "name": "ТОО QazaQ-Diesel-Service",
+      "avatar": "https://dev.gservice-co.kz/api-assets/company.png",
+      "rating": 0,
+      "city": {
+        "id": 8,
+        "title": "Астана",
+        "is_popular": true
+      },
+      "specializations": [],
+      "slug": "12-too-qazaq-diesel-service",
+      "is_official": false,
+      "created_at": "2025-04-02T11:24:29.000000Z"
+    }
+  ]
+}

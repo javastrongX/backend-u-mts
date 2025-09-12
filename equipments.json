@@ -1,0 +1,930 @@
+{
+  "data": [
+    {
+      "id": 12452,
+      "author": {
+        "id": 28079,
+        "name": "Юра юркевичич",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": false,
+        "is_official": false
+      },
+      "is_premium": true,
+      "category": {
+        "id": 2,
+        "title": "Аренда спецтехники",
+        "icon": "https://dev.gservice-co.kz/api-assets/category_icon/rent.svg"
+      },
+      "title": "Нужен водитель на вахту на автокран Урал 3 х мостовый",
+      "sub_title": "Bu yerda malumotlar boladi",
+      "city": {
+        "id": 8,
+        "title": "Батькен",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8729,
+          "type": "price",
+          "price": 100000,
+          "original_price": 0,
+          "currency": "rub"
+        }
+      ],
+      "images": [],
+      "slug": "12452-ekskavatory-pogruzciki",
+      "phones": [
+        "+7 707"
+      ],
+      "description": "Договорная",
+      "statistics": {
+        "viewed": 13,
+        "write": 0,
+        "called": 0,
+        "favorite": 0,
+        "share": 0,
+        "clicked": 2
+      },
+      "created_at": "2025-05-31T01:50:00.000000Z"
+    },
+    {
+      "id": 12453,
+      "author": {
+        "id": 28080,
+        "name": "Алымбек",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": true,
+        "is_official": true
+      },
+      "title": "Кыран",
+      "sub_title": "XCMG QY25K-I",
+      "city": {
+        "id": 9,
+        "title": "Шымкент",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8730,
+          "type": "negotiable",
+          "price": 0
+        }
+      ],
+      "phones": [
+        "+7 771"
+      ],
+      "statistics": {
+        "viewed": 18
+      },
+      "created_at": "2025-05-30T08:18:00.000000Z"
+    },
+        {
+      "id": 12452,
+      "author": {
+        "id": 28079,
+        "name": "Юра юркевичич",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": false,
+        "is_official": false
+      },
+      "is_premium": true,
+      "category": {
+        "id": 2,
+        "title": "Аренда спецтехники",
+        "icon": "https://dev.gservice-co.kz/api-assets/category_icon/rent.svg"
+      },
+      "title": "Нужен водитель на вахту на автокран Урал 3 х мостовый",
+      "sub_title": "Bu yerda malumotlar boladi",
+      "city": {
+        "id": 8,
+        "title": "Батькен",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8729,
+          "type": "negotiable",
+          "price": 100000,
+          "original_price": 0,
+          "currency": "uzs"
+        }
+      ],
+      "images": [],
+      "slug": "12452-ekskavatory-pogruzciki",
+      "phones": [
+        "+7 707"
+      ],
+      "description": "Договорная",
+      "statistics": {
+        "viewed": 13,
+        "write": 0,
+        "called": 0,
+        "favorite": 0,
+        "share": 0,
+        "clicked": 2
+      },
+      "created_at": "2025-05-31T01:50:00.000000Z"
+    },
+    {
+      "id": 12453,
+      "author": {
+        "id": 28080,
+        "name": "Алымбек",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": true,
+        "is_official": true
+      },
+      "title": "Кыран",
+      "sub_title": "XCMG QY25K-I",
+      "city": {
+        "id": 9,
+        "title": "Шымкент",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8730,
+          "type": "negotiable",
+          "price": 0
+        }
+      ],
+      "phones": [
+        "+7 771"
+      ],
+      "statistics": {
+        "viewed": 18
+      },
+      "created_at": "2025-05-30T08:18:00.000000Z"
+    },    {
+      "id": 12452,
+      "author": {
+        "id": 28079,
+        "name": "Юра юркевичич",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": false,
+        "is_official": false
+      },
+      "is_premium": true,
+      "category": {
+        "id": 2,
+        "title": "Аренда спецтехники",
+        "icon": "https://dev.gservice-co.kz/api-assets/category_icon/rent.svg"
+      },
+      "title": "Нужен водитель на вахту на автокран Урал 3 х мостовый",
+      "sub_title": "Bu yerda malumotlar boladi",
+      "city": {
+        "id": 8,
+        "title": "Батькен",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8729,
+          "type": "negotiable",
+          "price": 100000,
+          "original_price": 0,
+          "currency": "uzs"
+        }
+      ],
+      "images": [],
+      "slug": "12452-ekskavatory-pogruzciki",
+      "phones": [
+        "+7 707"
+      ],
+      "description": "Договорная",
+      "statistics": {
+        "viewed": 13,
+        "write": 0,
+        "called": 0,
+        "favorite": 0,
+        "share": 0,
+        "clicked": 2
+      },
+      "created_at": "2025-05-31T01:50:00.000000Z"
+    },
+    {
+      "id": 12453,
+      "author": {
+        "id": 28080,
+        "name": "Алымбек",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": true,
+        "is_official": true
+      },
+      "title": "Кыран",
+      "sub_title": "XCMG QY25K-I",
+      "city": {
+        "id": 9,
+        "title": "Шымкент",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8730,
+          "type": "negotiable",
+          "price": 0
+        }
+      ],
+      "phones": [
+        "+7 771"
+      ],
+      "statistics": {
+        "viewed": 18
+      },
+      "created_at": "2025-05-30T08:18:00.000000Z"
+    },    {
+      "id": 12452,
+      "author": {
+        "id": 28079,
+        "name": "Юра юркевичич",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": false,
+        "is_official": false
+      },
+      "is_premium": true,
+      "category": {
+        "id": 2,
+        "title": "Аренда спецтехники",
+        "icon": "https://dev.gservice-co.kz/api-assets/category_icon/rent.svg"
+      },
+      "title": "Нужен водитель на вахту на автокран Урал 3 х мостовый",
+      "sub_title": "Bu yerda malumotlar boladi",
+      "city": {
+        "id": 8,
+        "title": "Батькен",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8729,
+          "type": "negotiable",
+          "price": 100000,
+          "original_price": 0,
+          "currency": "uzs"
+        }
+      ],
+      "images": [],
+      "slug": "12452-ekskavatory-pogruzciki",
+      "phones": [
+        "+7 707"
+      ],
+      "description": "Договорная",
+      "statistics": {
+        "viewed": 13,
+        "write": 0,
+        "called": 0,
+        "favorite": 0,
+        "share": 0,
+        "clicked": 2
+      },
+      "created_at": "2025-05-31T01:50:00.000000Z"
+    },
+    {
+      "id": 12453,
+      "author": {
+        "id": 28080,
+        "name": "Алымбек",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": true,
+        "is_official": true
+      },
+      "title": "Кыран",
+      "sub_title": "XCMG QY25K-I",
+      "city": {
+        "id": 9,
+        "title": "Шымкент",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8730,
+          "type": "negotiable",
+          "price": 0
+        }
+      ],
+      "phones": [
+        "+7 771"
+      ],
+      "statistics": {
+        "viewed": 18
+      },
+      "created_at": "2025-05-30T08:18:00.000000Z"
+    },    {
+      "id": 12452,
+      "author": {
+        "id": 28079,
+        "name": "Юра юркевичич",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": false,
+        "is_official": false
+      },
+      "is_premium": true,
+      "category": {
+        "id": 2,
+        "title": "Аренда спецтехники",
+        "icon": "https://dev.gservice-co.kz/api-assets/category_icon/rent.svg"
+      },
+      "title": "Нужен водитель на вахту на автокран Урал 3 х мостовый",
+      "sub_title": "Bu yerda malumotlar boladi",
+      "city": {
+        "id": 8,
+        "title": "Батькен",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8729,
+          "type": "negotiable",
+          "price": 100000,
+          "original_price": 0,
+          "currency": "uzs"
+        }
+      ],
+      "images": [],
+      "slug": "12452-ekskavatory-pogruzciki",
+      "phones": [
+        "+7 707"
+      ],
+      "description": "Договорная",
+      "statistics": {
+        "viewed": 13,
+        "write": 0,
+        "called": 0,
+        "favorite": 0,
+        "share": 0,
+        "clicked": 2
+      },
+      "created_at": "2025-05-31T01:50:00.000000Z"
+    },
+    {
+      "id": 12453,
+      "author": {
+        "id": 28080,
+        "name": "Алымбек",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": true,
+        "is_official": true
+      },
+      "title": "Кыран",
+      "sub_title": "XCMG QY25K-I",
+      "city": {
+        "id": 9,
+        "title": "Шымкент",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8730,
+          "type": "negotiable",
+          "price": 0
+        }
+      ],
+      "phones": [
+        "+7 771"
+      ],
+      "statistics": {
+        "viewed": 18
+      },
+      "created_at": "2025-05-30T08:18:00.000000Z"
+    },    {
+      "id": 12452,
+      "author": {
+        "id": 28079,
+        "name": "Юра юркевичич",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": false,
+        "is_official": false
+      },
+      "is_premium": true,
+      "category": {
+        "id": 2,
+        "title": "Аренда спецтехники",
+        "icon": "https://dev.gservice-co.kz/api-assets/category_icon/rent.svg"
+      },
+      "title": "Нужен водитель на вахту на автокран Урал 3 х мостовый",
+      "sub_title": "Bu yerda malumotlar boladi",
+      "city": {
+        "id": 8,
+        "title": "Батькен",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8729,
+          "type": "negotiable",
+          "price": 100000,
+          "original_price": 0,
+          "currency": "uzs"
+        }
+      ],
+      "images": [],
+      "slug": "12452-ekskavatory-pogruzciki",
+      "phones": [
+        "+7 707"
+      ],
+      "description": "Договорная",
+      "statistics": {
+        "viewed": 13,
+        "write": 0,
+        "called": 0,
+        "favorite": 0,
+        "share": 0,
+        "clicked": 2
+      },
+      "created_at": "2025-05-31T01:50:00.000000Z"
+    },
+    {
+      "id": 12453,
+      "author": {
+        "id": 28080,
+        "name": "Алымбек",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": true,
+        "is_official": true
+      },
+      "title": "Кыран",
+      "sub_title": "XCMG QY25K-I",
+      "city": {
+        "id": 9,
+        "title": "Шымкент",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8730,
+          "type": "negotiable",
+          "price": 0
+        }
+      ],
+      "phones": [
+        "+7 771"
+      ],
+      "statistics": {
+        "viewed": 18
+      },
+      "created_at": "2025-05-30T08:18:00.000000Z"
+    },    {
+      "id": 12452,
+      "author": {
+        "id": 28079,
+        "name": "Юра юркевичич",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": false,
+        "is_official": false
+      },
+      "is_premium": true,
+      "category": {
+        "id": 2,
+        "title": "Аренда спецтехники",
+        "icon": "https://dev.gservice-co.kz/api-assets/category_icon/rent.svg"
+      },
+      "title": "Нужен водитель на вахту на автокран Урал 3 х мостовый",
+      "sub_title": "Bu yerda malumotlar boladi",
+      "city": {
+        "id": 8,
+        "title": "Батькен",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8729,
+          "type": "negotiable",
+          "price": 100000,
+          "original_price": 0,
+          "currency": "uzs"
+        }
+      ],
+      "images": [],
+      "slug": "12452-ekskavatory-pogruzciki",
+      "phones": [
+        "+7 707"
+      ],
+      "description": "Договорная",
+      "statistics": {
+        "viewed": 13,
+        "write": 0,
+        "called": 0,
+        "favorite": 0,
+        "share": 0,
+        "clicked": 2
+      },
+      "created_at": "2025-05-31T01:50:00.000000Z"
+    },
+    {
+      "id": 12453,
+      "author": {
+        "id": 28080,
+        "name": "Алымбек",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": true,
+        "is_official": true
+      },
+      "title": "Кыран",
+      "sub_title": "XCMG QY25K-I",
+      "city": {
+        "id": 9,
+        "title": "Шымкент",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8730,
+          "type": "negotiable",
+          "price": 0
+        }
+      ],
+      "phones": [
+        "+7 771"
+      ],
+      "statistics": {
+        "viewed": 18
+      },
+      "created_at": "2025-05-30T08:18:00.000000Z"
+    },    {
+      "id": 12452,
+      "author": {
+        "id": 28079,
+        "name": "Юра юркевичич",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": false,
+        "is_official": false
+      },
+      "is_premium": true,
+      "category": {
+        "id": 2,
+        "title": "Аренда спецтехники",
+        "icon": "https://dev.gservice-co.kz/api-assets/category_icon/rent.svg"
+      },
+      "title": "Нужен водитель на вахту на автокран Урал 3 х мостовый",
+      "sub_title": "Bu yerda malumotlar boladi",
+      "city": {
+        "id": 8,
+        "title": "Батькен",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8729,
+          "type": "negotiable",
+          "price": 100000,
+          "original_price": 0,
+          "currency": "uzs"
+        }
+      ],
+      "images": [],
+      "slug": "12452-ekskavatory-pogruzciki",
+      "phones": [
+        "+7 707"
+      ],
+      "description": "Договорная",
+      "statistics": {
+        "viewed": 13,
+        "write": 0,
+        "called": 0,
+        "favorite": 0,
+        "share": 0,
+        "clicked": 2
+      },
+      "created_at": "2025-05-31T01:50:00.000000Z"
+    },
+    {
+      "id": 12453,
+      "author": {
+        "id": 28080,
+        "name": "Алымбек",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": true,
+        "is_official": true
+      },
+      "title": "Кыран",
+      "sub_title": "XCMG QY25K-I",
+      "city": {
+        "id": 9,
+        "title": "Шымкент",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8730,
+          "type": "negotiable",
+          "price": 0
+        }
+      ],
+      "phones": [
+        "+7 771"
+      ],
+      "statistics": {
+        "viewed": 18
+      },
+      "created_at": "2025-05-30T08:18:00.000000Z"
+    },    {
+      "id": 12452,
+      "author": {
+        "id": 28079,
+        "name": "Юра юркевичич",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": false,
+        "is_official": false
+      },
+      "is_premium": true,
+      "category": {
+        "id": 2,
+        "title": "Аренда спецтехники",
+        "icon": "https://dev.gservice-co.kz/api-assets/category_icon/rent.svg"
+      },
+      "title": "Нужен водитель на вахту на автокран Урал 3 х мостовый",
+      "sub_title": "Bu yerda malumotlar boladi",
+      "city": {
+        "id": 8,
+        "title": "Батькен",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8729,
+          "type": "negotiable",
+          "price": 100000,
+          "original_price": 0,
+          "currency": "uzs"
+        }
+      ],
+      "images": [],
+      "slug": "12452-ekskavatory-pogruzciki",
+      "phones": [
+        "+7 707"
+      ],
+      "description": "Договорная",
+      "statistics": {
+        "viewed": 13,
+        "write": 0,
+        "called": 0,
+        "favorite": 0,
+        "share": 0,
+        "clicked": 2
+      },
+      "created_at": "2025-05-31T01:50:00.000000Z"
+    },
+    {
+      "id": 12453,
+      "author": {
+        "id": 28080,
+        "name": "Алымбек",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": true,
+        "is_official": true
+      },
+      "title": "Кыран",
+      "sub_title": "XCMG QY25K-I",
+      "city": {
+        "id": 9,
+        "title": "Шымкент",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8730,
+          "type": "negotiable",
+          "price": 0
+        }
+      ],
+      "phones": [
+        "+7 771"
+      ],
+      "statistics": {
+        "viewed": 18
+      },
+      "created_at": "2025-05-30T08:18:00.000000Z"
+    },    {
+      "id": 12452,
+      "author": {
+        "id": 28079,
+        "name": "Юра юркевичич",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": false,
+        "is_official": false
+      },
+      "is_premium": true,
+      "category": {
+        "id": 2,
+        "title": "Аренда спецтехники",
+        "icon": "https://dev.gservice-co.kz/api-assets/category_icon/rent.svg"
+      },
+      "title": "Нужен водитель на вахту на автокран Урал 3 х мостовый",
+      "sub_title": "Bu yerda malumotlar boladi",
+      "city": {
+        "id": 8,
+        "title": "Батькен",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8729,
+          "type": "negotiable",
+          "price": 100000,
+          "original_price": 0,
+          "currency": "uzs"
+        }
+      ],
+      "images": [],
+      "slug": "12452-ekskavatory-pogruzciki",
+      "phones": [
+        "+7 707"
+      ],
+      "description": "Договорная",
+      "statistics": {
+        "viewed": 13,
+        "write": 0,
+        "called": 0,
+        "favorite": 0,
+        "share": 0,
+        "clicked": 2
+      },
+      "created_at": "2025-05-31T01:50:00.000000Z"
+    },
+    {
+      "id": 12453,
+      "author": {
+        "id": 28080,
+        "name": "Алымбек",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": true,
+        "is_official": true
+      },
+      "title": "Кыран",
+      "sub_title": "XCMG QY25K-I",
+      "city": {
+        "id": 9,
+        "title": "Шымкент",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8730,
+          "type": "negotiable",
+          "price": 0
+        }
+      ],
+      "phones": [
+        "+7 771"
+      ],
+      "statistics": {
+        "viewed": 18
+      },
+      "created_at": "2025-05-30T08:18:00.000000Z"
+    },    {
+      "id": 12452,
+      "author": {
+        "id": 28079,
+        "name": "Юра юркевичич",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": false,
+        "is_official": false
+      },
+      "is_premium": true,
+      "category": {
+        "id": 2,
+        "title": "Аренда спецтехники",
+        "icon": "https://dev.gservice-co.kz/api-assets/category_icon/rent.svg"
+      },
+      "title": "Нужен водитель на вахту на автокран Урал 3 х мостовый",
+      "sub_title": "Bu yerda malumotlar boladi",
+      "city": {
+        "id": 8,
+        "title": "Батькен",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8729,
+          "type": "negotiable",
+          "price": 100000,
+          "original_price": 0,
+          "currency": "uzs"
+        }
+      ],
+      "images": [],
+      "slug": "12452-ekskavatory-pogruzciki",
+      "phones": [
+        "+7 707"
+      ],
+      "description": "Договорная",
+      "statistics": {
+        "viewed": 13,
+        "write": 0,
+        "called": 0,
+        "favorite": 0,
+        "share": 0,
+        "clicked": 2
+      },
+      "created_at": "2025-05-31T01:50:00.000000Z"
+    },
+    {
+      "id": 12453,
+      "author": {
+        "id": 28080,
+        "name": "Алымбек",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": true,
+        "is_official": true
+      },
+      "title": "Кыран",
+      "sub_title": "XCMG QY25K-I",
+      "city": {
+        "id": 9,
+        "title": "Шымкент",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8730,
+          "type": "negotiable",
+          "price": 0
+        }
+      ],
+      "phones": [
+        "+7 771"
+      ],
+      "statistics": {
+        "viewed": 18
+      },
+      "created_at": "2025-05-30T08:18:00.000000Z"
+    },    {
+      "id": 12452,
+      "author": {
+        "id": 28079,
+        "name": "Юра юркевичич",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": false,
+        "is_official": false
+      },
+      "is_premium": true,
+      "category": {
+        "id": 2,
+        "title": "Аренда спецтехники",
+        "icon": "https://dev.gservice-co.kz/api-assets/category_icon/rent.svg"
+      },
+      "title": "Нужен водитель на вахту на автокран Урал 3 х мостовый",
+      "sub_title": "Bu yerda malumotlar boladi",
+      "city": {
+        "id": 8,
+        "title": "Батькен",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8729,
+          "type": "negotiable",
+          "price": 100000,
+          "original_price": 0,
+          "currency": "uzs"
+        }
+      ],
+      "images": [],
+      "slug": "12452-ekskavatory-pogruzciki",
+      "phones": [
+        "+7 707"
+      ],
+      "description": "Договорная",
+      "statistics": {
+        "viewed": 13,
+        "write": 0,
+        "called": 0,
+        "favorite": 0,
+        "share": 0,
+        "clicked": 2
+      },
+      "created_at": "2025-05-31T01:50:00.000000Z"
+    },
+    {
+      "id": 12453,
+      "author": {
+        "id": 28080,
+        "name": "Алымбек",
+        "avatar": "https://dev.gservice-co.kz/api-assets/no_avatar.png",
+        "is_company": true,
+        "is_official": true
+      },
+      "title": "Кыран",
+      "sub_title": "XCMG QY25K-I",
+      "city": {
+        "id": 9,
+        "title": "Шымкент",
+        "is_popular": true
+      },
+      "prices": [
+        {
+          "id": 8730,
+          "type": "negotiable",
+          "price": 0
+        }
+      ],
+      "phones": [
+        "+7 771"
+      ],
+      "statistics": {
+        "viewed": 18
+      },
+      "created_at": "2025-05-30T08:18:00.000000Z"
+    }
+  ]
+}
