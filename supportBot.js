@@ -8,7 +8,7 @@ import fetch from 'node-fetch';
  * @returns {Promise<Object>}
  */
 async function sendTextToAiogramBot({ textData = {}, webhookUrl = null }) {
-  const targetUrl = webhookUrl || process.env.BOT_WEBHOOK_URL || 'http://localhost:8000/webhook/new-message';
+  const targetUrl = webhookUrl || 'https://6852f826aac7.ngrok-free.app/webhook/new-message';
   
   try {
     // Kirish ma'lumotlarini tekshirish
