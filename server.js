@@ -31,7 +31,7 @@ const TELEGRAM_API_URL = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}`;
 // Aiogram bot serveriga ma'lumot yuborish funksiyasi
 
 // Bot holatini tekshirish endpoint
-app.get("/api/telegram/status", async (req, res) => {
+app.get("https://392388271933.ngrok-free.app/webhook/api/telegram/status", async (req, res) => {
   try {
     const response = await axios.get(`${TELEGRAM_API_URL}/getMe`);
     res.json({
@@ -53,7 +53,7 @@ app.get("/api/telegram/status", async (req, res) => {
 
 
 // API endpoint
-app.post("/api/notify/new-announcement", upload.array("files", 10), async (req, res) => {
+app.post("https://392388271933.ngrok-free.app/webhook/api/notify/new-announcement", upload.array("files", 10), async (req, res) => {
   try {
     console.log('=== NEW ANNOUNCEMENT REQUEST ===');
     console.log('Files received:', req.files ? req.files.length : 0);
