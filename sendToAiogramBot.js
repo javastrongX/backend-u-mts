@@ -11,7 +11,7 @@ import FormData from 'form-data';
  * @returns {Promise<Object>} Response object with success status and data
  */
 async function sendToAiogramBot({ files = [], formData = {}, webhookUrl = null }) {
-  const targetUrl = webhookUrl || process.env.BOT_WEBHOOK_URL || 'http://localhost:8000/webhook/new-announcement';
+  const targetUrl = webhookUrl || process.env.BOT_WEBHOOK_URL || 'https://392388271933.ngrok-free.app/webhook/new-announcement';
   
   try {
     // Validate inputs
